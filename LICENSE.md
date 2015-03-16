@@ -1,5 +1,4 @@
-                                ISC License
-                   http://opensource.org/licenses/ISC
+Released under the [ISC License](http://opensource.org/licenses/ISC):
 
 Copyright (C) 2015 Waldir Pimenta
 
