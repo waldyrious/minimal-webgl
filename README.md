@@ -14,4 +14,6 @@ This code was heavily inspired by [@guciek](https://github.com/guciek)'s
   (using [Docco](http://jashkenas.github.io/docco/),
   [groc](https://github.com/nevir/groc) or
   [this simple script](http://jsfiddle.net/D2nm4/12/)),
-  rather than just the code. (Issue #2)
+  rather than just the code.
+See [Issue #2](https://github.com/waldyrious/minimal-webgl/issues/2)
+  for the plans to actually implement the inline documentation view.
